@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AAPCpp2Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\..\\aaplus ..\\..\\..\\..\\AAPlusSharp"
+    }
+  }
+}
